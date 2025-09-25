@@ -44,21 +44,3 @@ The summaries are **concise and semantically meaningful**, but performance is li
 
 ---
 
-## ⚙️ Installation
-```bash
-git clone https://github.com/your-username/ResearchPaperSummarization.git
-cd ResearchPaperSummarization
-pip install -r requirements.txt
-Jupyter Notebook ResearchPaperSummerization-2.ipynb
-python summarize.py --text "Your research paper content here"
-python summarize.py --text "Your research paper content here"
-
-
-📂 ResearchPaperSummarization
- ┣ 📜 README.md
- ┣ 📜 requirements.txt
- ┣ 📓 ResearchPaperSummerization-2.ipynb
- ┣ 📄 Research Paper Text Summarization.pdf   # Final report
- ┗ 📂 outputs/   # (optional: store sample summaries or plots)
-
-
