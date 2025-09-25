@@ -4,11 +4,7 @@ This project implements an abstractive text summarization system for research ar
 
 ## Features
 Preprocessing & tokenization of research papers
-
-Fine-tuned T5-small model with Hugging Face
-
+Fine-tuned T5 model with Hugging Face
 Evaluation with ROUGE, BLEU, METEOR, BERTScore
-
 Beam search decoding for fluent summaries
-
 Reproducible training pipeline
